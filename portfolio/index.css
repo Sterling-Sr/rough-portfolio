@@ -1,0 +1,42 @@
+body {
+  background-color: bisque;
+}
+header {
+  background-color: darkcyan;
+}
+h1 {
+  text-align: center;
+  background-color: darkcyan;
+  margin-top: 80px;
+  margin: 80px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.image {
+  background-color: darkcyan;
+  width: 300px;
+  padding: 18px;
+  margin: 18px;
+}
+
+main {
+  background-color: darkcyan;
+  text-align: center;
+  padding-left: 32px;
+  padding-right: 32px;
+  margin-top: 32px;
+}
+div {
+  width: auto;
+}
+ul {
+  list-style-position: inside;
+}
+li {
+  text-align: center;
+}
+footer {
+  background-color: darkcyan;
+  margin: 0px;
+  padding-bottom: 25px;
+}
